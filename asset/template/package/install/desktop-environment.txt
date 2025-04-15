@@ -1,0 +1,33 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Window Manager / openbox
+##
+
+openbox
+obconf-qt
+
+
+
+
+##
+## ## Package / Compositor / picom
+##
+
+picom
+
+
+
+
+##
+## ## Package / Style / kvantum
+##
+
+kvantum

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Open in Geany
+Name=Geany
+Profiles=profile-one;
+Icon=geany
+
+
+[X-Action-Profile profile-one]
+MimeTypes=text/plain;
+Exec=geany %F
+Name=Default profile

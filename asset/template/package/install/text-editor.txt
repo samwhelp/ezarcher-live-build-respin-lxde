@@ -1,0 +1,17 @@
+
+
+##
+## # Text Editor
+##
+
+
+
+
+##
+## ## Package / text-editor
+##
+
+nano
+micro
+vim
+neovim
