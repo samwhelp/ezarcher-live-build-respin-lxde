@@ -1,4 +1,27 @@
 
+
+	<keybind key="Alt-F1">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>RunMainMenu</name>
+			</startupnotify>
+			<command>lxpanelctl menu</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="Alt-F2">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>RunDialog</name>
+			</startupnotify>
+			<command>lxpanelctl run</command>
+		</action>
+	</keybind>
+
+
 <?php
 /*
 	<keybind key="Alt-F2">

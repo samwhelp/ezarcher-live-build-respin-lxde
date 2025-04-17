@@ -48,7 +48,21 @@
 
 <?php
 /*
-	<!-- ## Text Editor //-->
+	<keybind key="A-S-e">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>TextEditor</name>
+			</startupnotify>
+			<command>geany</command>
+		</action>
+	</keybind>
+*/
+?>
+
+
+<?php
+/*
 	<keybind key="A-S-e">
 		<action name="Execute">
 			<startupnotify>
@@ -60,4 +74,3 @@
 	</keybind>
 */
 ?>
-
