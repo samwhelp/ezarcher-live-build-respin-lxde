@@ -2,7 +2,17 @@
 
 # ezarcher-live-build-respin-lxde
 
-| Link | GitHub |
-| ---- | ------ |
-| [ezarcher-live-build-config-template-lxde](https://samwhelp.github.io/ezarcher-live-build-config-template-lxde/) | [GitHub](https://github.com/samwhelp/ezarcher-live-build-config-template-lxde) |
-| [ezarcher-live-build-respin-lxde](https://samwhelp.github.io/ezarcher-live-build-respin-lxde/) | [GitHub](https://github.com/samwhelp/ezarcher-live-build-respin-lxde) |
+
+
+
+## Home
+
+> [ezarcher-live-build-respin-lxde](https://samwhelp.github.io/ezarcher-live-build-respin-lxde/)
+
+| Project |
+| ------- |
+| [ezarcher-live-build-config-template-lxde](https://github.com/samwhelp/ezarcher-live-build-config-template-lxde) |
+| `+` |
+| [ezarcher-live-build-remix-lxde](https://github.com/samwhelp/ezarcher-live-build-remix-lxde) |
+| `=` |
+| [ezarcher-live-build-respin-lxde](https://github.com/samwhelp/ezarcher-live-build-respin-lxde) |
