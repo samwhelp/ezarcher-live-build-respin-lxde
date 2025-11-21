@@ -1,0 +1,64 @@
+
+
+##
+## # Theme
+##
+
+
+
+
+##
+## ## Package / Theme / hicolor
+##
+
+hicolor-icon-theme
+
+
+
+
+##
+## ## Package / Theme / adwaita
+##
+
+adwaita-icon-theme
+
+
+
+
+##
+## ## Package / Theme / breeze
+##
+
+#breeze
+#breeze-grub
+breeze-icons
+breeze-gtk
+#breeze-plymouth
+
+
+
+
+##
+## ## Package / Theme / papirus
+##
+
+papirus-icon-theme
+
+
+
+
+##
+## ## Package / Theme / orchis
+##
+
+orchis-theme
+
+
+
+
+##
+## ## Package / Theme / materia
+##
+
+#materia-gtk-theme
+#materia-kde
