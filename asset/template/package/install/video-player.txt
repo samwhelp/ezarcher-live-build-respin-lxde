@@ -1,0 +1,48 @@
+
+
+##
+## # Tool
+##
+
+
+
+
+##
+## ## Package / Tool / Video Player
+##
+
+
+
+
+##
+## ## Package / mpv
+##
+
+mpv
+yt-dlp
+
+
+
+
+##
+## ## Package / vlc
+##
+
+vlc
+
+vlc-plugins-all
+#vlc-plugins-base
+#vlc-plugins-extra
+#vlc-plugins-video-output
+#vlc-plugins-visualization
+
+
+
+
+##
+## ## Package / smplayer
+##
+
+smplayer
+smplayer-skins
+smplayer-themes

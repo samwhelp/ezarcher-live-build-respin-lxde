@@ -1,0 +1,18 @@
+
+
+##
+## # Web Browser
+##
+
+
+
+
+##
+## ## Package / Web Browser / firefox
+##
+
+firefox
+firefox-i18n-zh-tw
+firefox-i18n-zh-cn
+firefox-i18n-ja
+firefox-i18n-ko

@@ -1,0 +1,87 @@
+
+
+##
+## # File Manager
+##
+
+
+
+
+##
+## ## Package / File Manager / thunar
+##
+
+thunar
+thunar-volman
+thunar-archive-plugin
+#thunar-shares-plugin
+#thunar-media-tags-plugin
+#thunar-vcs-plugin
+
+
+
+
+##
+## ## Package / File Manager / pcmanfm
+##
+
+pcmanfm
+
+
+
+
+##
+## ## Package / File Manager / pcmanfm-qt
+##
+
+#pcmanfm-qt
+
+
+
+
+##
+## ## Package / File Manager / nemo
+##
+
+#nemo
+#nemo-terminal
+
+
+
+
+##
+## ## Package / File Manager / caja
+##
+
+#caja
+#caja-image-converter
+#caja-wallpaper
+#caja-actions
+#caja-open-terminal
+#caja-xattr-tags
+#caja-audio-video-properties
+#caja-sendto
+#caja-extensions-common
+#caja-share
+
+
+
+
+##
+## ## Package / File Manager / nautilus
+##
+
+#nautilus
+#nautilus-python
+#nautilus-image-converter
+#nautilus-share
+
+
+
+
+##
+## ## Package / File Manager / dolphin
+##
+
+#dolphin
+#dolphin-plugins

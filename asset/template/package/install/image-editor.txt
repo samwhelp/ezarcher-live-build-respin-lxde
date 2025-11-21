@@ -1,0 +1,23 @@
+
+
+##
+## # Image Editor
+##
+
+
+
+
+##
+## ## Package / Image Editor / gimp
+##
+
+gimp
+
+
+
+
+##
+## ## Package / Image Editor / inkscape
+##
+
+inkscape

@@ -1,0 +1,208 @@
+
+
+##
+## # Terminal
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Category:Terminal_emulators
+## * https://wiki.archlinux.org/title/List_of_applications/Utilities#Terminal_emulators
+## * https://wiki.archlinux.org/title/Linux_console
+##
+
+
+
+
+##
+## ## Package / Terminal
+##
+
+
+
+
+##
+## ## Package / Terminal / sakura
+##
+
+sakura
+
+
+
+
+##
+## ## Package / Terminal / xfce4-terminal
+##
+
+xfce4-terminal
+
+
+
+
+##
+## ## Package / Terminal / qterminal
+##
+
+#qterminal
+
+
+
+
+##
+## ## Package / Terminal / lxterminal
+##
+
+#lxterminal
+
+
+
+
+##
+## ## Package / Terminal / mate-terminal
+##
+
+#mate-terminal
+
+
+
+
+##
+## ## Package / Terminal / gnome-terminal
+##
+
+#gnome-terminal
+
+
+
+
+##
+## ## Package / Terminal / ptyxis
+##
+
+#ptyxis
+
+
+
+
+##
+## ## Package / Terminal / cosmic-terminal
+##
+
+#cosmic-terminal
+
+
+
+
+##
+## ## Package / Terminal / tilix
+##
+
+#tilix
+
+
+
+
+##
+## ## Package / Terminal / terminator
+##
+
+#terminator
+
+
+
+
+##
+## ## Package / Terminal / foot
+##
+
+foot
+
+
+
+
+##
+## ## Package / Terminal / kitty
+##
+
+kitty
+
+
+
+
+##
+## ## Package / Terminal / alacritty
+##
+
+#alacritty
+
+
+
+
+##
+## ## Package / Terminal / ghostty
+##
+
+#ghostty
+
+
+
+
+##
+## ## Package / Terminal / xterm
+##
+
+#xterm
+
+
+
+
+##
+## ## Package / Terminal / rxvt-unicode
+##
+
+#rxvt-unicode
+
+
+
+
+##
+## ## Package / Terminal / konsole
+##
+
+#konsole
+
+
+
+
+##
+## ## Package / Terminal (Drop Down)
+##
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / yakuake
+##
+
+#yakuake
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / quake
+##
+
+#quake
+
+
+
+
+##
+## ## Package / Terminal (Drop Down) / tilda
+##
+
+#tilda

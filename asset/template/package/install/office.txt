@@ -1,0 +1,51 @@
+
+
+##
+## # Office
+##
+
+
+
+
+##
+## ## Package / Office / libreoffice
+##
+
+##
+## * https://wiki.archlinux.org/title/LibreOffice
+##
+
+
+
+
+##
+## ### Stable
+##
+
+libreoffice-still
+libreoffice-still-zh-tw
+libreoffice-still-zh-cn
+libreoffice-still-ja
+libreoffice-still-ko
+
+
+
+
+##
+## ### Feature
+##
+
+#libreoffice-fresh
+#libreoffice-fresh-zh-tw
+#libreoffice-fresh-zh-cn
+#libreoffice-fresh-ja
+#libreoffice-fresh-ko
+
+
+
+
+##
+## ## Package / Tool / PDF
+##
+
+okular

@@ -8,10 +8,96 @@
 
 
 ##
-## ## Package / text-editor
+## ## Package / nano
 ##
 
 nano
+
+
+
+
+##
+## ## Package / micro
+##
+
 micro
+
+
+
+
+##
+## ## Package / vim
+##
+
 vim
+
+
+
+
+##
+## ## Package / neovim
+##
+
 neovim
+
+
+
+
+
+
+
+
+##
+## ## Package / gtksourceview
+##
+
+#gtksourceview3
+#gtksourceview4
+#gtksourceview5
+
+
+
+
+##
+## ## Package / gedit
+##
+
+#gedit
+
+
+
+
+##
+## ## Package / pluma
+##
+
+#pluma
+#pluma-plugins
+
+
+
+
+##
+## ## Package / mousepad
+##
+
+#mousepad
+
+
+
+
+##
+## ## Package / geany
+##
+
+geany
+
+
+
+
+##
+## ## Package / featherpad
+##
+
+featherpad
+feathernotes
