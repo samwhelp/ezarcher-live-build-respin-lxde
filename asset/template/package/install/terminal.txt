@@ -117,7 +117,7 @@ xfce4-terminal
 ## ## Package / Terminal / foot
 ##
 
-foot
+#foot
 
 
 
