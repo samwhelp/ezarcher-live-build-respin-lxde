@@ -1,0 +1,36 @@
+
+
+##
+## # Display Manager
+##
+
+
+
+
+##
+## ## Package / sddm
+##
+
+sddm
+#sddm-kcm
+
+
+
+
+##
+## ## Package / lightdm
+##
+
+#light-locker
+#lightdm
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+
+
+
+
+##
+## ## Package / lxdm
+##
+
+lxdm
