@@ -1,0 +1,55 @@
+
+
+##
+## # Polkit
+##
+
+
+
+
+##
+## ## Package / Polkit
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Polkit
+##
+
+
+
+
+##
+## ## Package / Polkit / gnome
+##
+
+polkit-gnome
+
+
+
+
+##
+## ## Package / Polkit / mate
+##
+
+#mate-polkit
+
+
+
+
+##
+## ## Package / Polkit / lxqt
+##
+
+#lxqt-policykit
+
+
+
+
+##
+## ## Package / Polkit / hyprland
+##
+
+#hyprpolkitagent
