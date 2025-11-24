@@ -52,4 +52,4 @@ polkit-gnome
 ## ## Package / Polkit / hyprland
 ##
 
-hyprpolkitagent
+#hyprpolkitagent
